@@ -106,6 +106,7 @@
             <compilerArgs>
               <compilerArg>--add-modules</compilerArg>
               <compilerArg>java.base,jdk.incubator.vector</compilerArg>
+              <compilerArg>--enable-preview</compilerArg>
             </compilerArgs>
           </configuration>
         </plugin>
